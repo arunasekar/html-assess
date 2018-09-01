@@ -1,0 +1,28 @@
+#first
+{
+width:85%;
+height:900px;
+background-color:gold;
+margin:0px auto;
+
+}
+#content1
+{
+margin-top:20px;
+width:70%;
+height:280px;
+background-color:yellow;
+margin:0px auto;
+text-color:white;
+}
+#content2
+{
+margin-top:20px;
+width:70%;
+height:280px;
+background-color:white;
+margin:0px auto;
+text-color:white;
+margin-bottom:50px;
+text-align:center;
+}

@@ -1,0 +1,61 @@
+#first
+{
+width:85%;
+height:700px;
+background-color:white;
+margin:0px auto;
+
+}
+#top
+{
+width:80%;
+height:50px;
+margin:0px auto;
+background-color:pink;
+border:ridge;
+
+}
+#top ul
+{
+float:center;
+}
+#top ul li
+{
+display:inline;
+}
+#top ul li a
+{
+font-size:15px;
+text-color:black;
+font-family:verdana;
+padding:40px;
+}
+#top ul li a:hover
+{
+color:green;
+}
+
+#bottom
+{
+width:100%;
+height:40px;
+margin:0px auto;
+background-color:pink;
+border:ridge;
+margin-top:150px;
+}
+#bottom ul
+{
+float:center;
+}
+#bottom ul li
+{
+display:inline;
+}
+#bottom ul li a
+{
+font-size:15px;
+text-color:black;
+font-family:verdana;
+padding:40px;
+}

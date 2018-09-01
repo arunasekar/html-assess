@@ -1,0 +1,39 @@
+#one
+{
+width:85%;
+height:900px;
+background-color:violet;
+margin:0px auto;
+}
+#content1
+{
+margin-top:20px;
+width:90%;
+height:50px;
+background-color:yellow;
+margin:0px auto;
+text-color:rose;
+}
+#content2
+{
+margin-top:20px;
+width:70%;
+height:280px;
+background-color:#EFEFEF;
+margin:0px auto;
+text-color:white;
+margin-bottom:50px;
+text-align:center;
+text-color:white;
+}
+#content3
+{
+margin-top:20px;
+width:80%;
+height:200px;
+background-color:skyblue;
+margin:0px auto;
+text-color:white;
+margin-bottom:50px;
+text-align:center;
+}
